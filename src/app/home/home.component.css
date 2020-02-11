@@ -1,0 +1,24 @@
+.container {
+  min-height: 800px;
+  min-width: 500px;
+  margin: 20px;
+}
+.col {
+  min-height: 800px;
+  border: royalblue 1px solid;
+}
+
+.col-8 {
+  width: 100%;
+  height: 100%;
+  background: url(./images/bg.jpeg) no-repeat center;
+  background-size: cover;
+}
+
+.col-12 {
+  margin: 12px 12px;
+}
+
+.intro {
+  margin-bottom: 200px;
+}

@@ -1,0 +1,11 @@
+nav {
+  min-height: 20px;
+  font-size: larger;
+}
+
+article {
+  border: 2px solid rgb(238, 106, 106);
+  min-height: 800px;
+  min-width: 500px;
+  margin: 40px;
+}
